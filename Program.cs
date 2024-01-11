@@ -7,8 +7,7 @@
             Console.WriteLine("Hello, World!");
             Console.Write("HelloFriends");
             // String = ("Will");
-            // Hi Adam
-            // Hi Bander
+
        
          } // code goes above here
           // String = ("Will");
